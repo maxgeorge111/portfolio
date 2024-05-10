@@ -60,7 +60,7 @@
 					<h1 class="mb-0">Max
 						<span class="text-primary">Hogan</span>
 					</h1>
-					<div class="subheading mb-5">8 Ruthin Walk · Helsby, WA6 0EE · 07465447795 ·
+					<div class="subheading mb-5">07465447795 ·
 						<a href="mailto:name@email.com">maxhogan1@hotmail.com</a>
 					</div>
 					<p class="mb-5">Driven Software Engineering graduate with professional experience in developing software features for deployment into enterprise level IT systems. Enjoys working out how code can be used to solve problems as a hobby and wants to turn that interest into a career that poses new challenges every day.</p>
